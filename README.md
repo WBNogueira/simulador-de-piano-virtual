@@ -2,7 +2,7 @@
 
 ### Com HTML5, CSS3 e Javascript
 1) Estrutura do projeto, criando as pastas src contendo as pastas styles (arquivos CSS), scripts (arquivos javascript) e tunes (arquivos wav audio digital).
-2) Contruir a base do simulador em HTML.
+2) Construindo a base do simulador em HTML.
 3) Estilizando em CSS.
 4) Utilizando o conceito de absolute e relative para as teclas do piano.
 5) Trabalhando com Pseudos Elementos no checkbox.
